@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Evolution"
+  short_description: "Create real-browser videos of app development history"
+  default_prompt: "Use $codebase-evolution to build a real-browser timelapse of this app from its earliest PR through the current revision."
